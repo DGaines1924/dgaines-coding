@@ -1,0 +1,14 @@
+2025-12-29:
+Today I learned about f-strings in python. It's just like a
+normal string, but you can put variables in the string to
+add in other bits of info. It's similar to %d and %s in C
+code.
+
+
+2025-12-29 04:34:34:
+Today I also learned a little about the textwrap class. It
+has a lot to do with text formatting in the I/O realm and it
+pretty helpful for when there are a lot of strings. I only
+reallyknow a little bit about this class, but i'll learn
+more over time
+
