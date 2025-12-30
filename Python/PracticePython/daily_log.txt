@@ -12,3 +12,29 @@ pretty helpful for when there are a lot of strings. I only
 reallyknow a little bit about this class, but i'll learn
 more over time
 
+2025-12-30 00:57:11:
+I just found out that the down arrow deletes everything i
+type so my fat entry was deleted and I wasnt able to get it
+back. So now imma paraphrase because im not typing all that
+out again. So we have two big github command I will be using
+a lot (all the time), "so in general, ill probably be using
+git push instead of pull more often because i want to save
+my code on the remote spot so i can access it on my laptop.
+And on my laptop ill probably use git pull a loot because
+ill be doing most of my work on my pc and am going to need
+to also update the code on my laptop. Is my thinking correct
+here?" The answer is yes, my logic is correct.
+
+2025-12-30 02:21:45:
+test
+
+2025-12-30 02:22:47:
+Ok, it took some time, but i got the pop up working again.
+It was writing to the wrong folder for some reason, so i had
+to manually tie it to write into the current script folder.
+Im now going to make the file .pyw hopefully it doesnt mess
+up anything.
+
+2025-12-30 02:24:25:
+test .pyw
+
