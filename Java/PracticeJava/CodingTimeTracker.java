@@ -1,9 +1,9 @@
 public class CodingTimeTracker {
     public static void main(String[] args) {
         // Total work time for each language (in hours)
-        double pythonTime = 12.5;  // example total hours
-        double javaTime = 8.0;
-        double cppTime = 5.25;
+        double pythonTime = 0.0;  // example total hours
+        double javaTime = 0.0;
+        double cppTime = 0.0;
 
         // Display the totals
         System.out.println("=== Total Coding Time ===");
