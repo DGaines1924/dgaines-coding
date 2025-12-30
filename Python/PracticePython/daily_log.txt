@@ -26,7 +26,7 @@ to also update the code on my laptop. Is my thinking correct
 here?" The answer is yes, my logic is correct.
 
 2025-12-30 02:21:45:
-test
+test 
 
 2025-12-30 02:22:47:
 Ok, it took some time, but i got the pop up working again.
